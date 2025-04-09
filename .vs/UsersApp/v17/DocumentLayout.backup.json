@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|d:\\umair app\\backend\\aspnetcoremvccustomloginandregistration-main\\aspnetcoremvccustomloginandregistration-main\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|d:\\umair app\\backend\\aspnetcoremvccustomloginandregistration-main\\aspnetcoremvccustomloginandregistration-main\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|d:\\umair app\\backend\\aspnetcoremvccustomloginandregistration-main\\aspnetcoremvccustomloginandregistration-main\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|d:\\umair app\\backend\\aspnetcoremvccustomloginandregistration-main\\aspnetcoremvccustomloginandregistration-main\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|d:\\umair app\\backend\\aspnetcoremvccustomloginandregistration-main\\aspnetcoremvccustomloginandregistration-main\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|d:\\umair app\\backend\\aspnetcoremvccustomloginandregistration-main\\aspnetcoremvccustomloginandregistration-main\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|d:\\umair app\\backend\\aspnetcoremvccustomloginandregistration-main\\aspnetcoremvccustomloginandregistration-main\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|d:\\umair app\\backend\\aspnetcoremvccustomloginandregistration-main\\aspnetcoremvccustomloginandregistration-main\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|d:\\umair app\\backend\\aspnetcoremvccustomloginandregistration-main\\aspnetcoremvccustomloginandregistration-main\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|d:\\umair app\\backend\\aspnetcoremvccustomloginandregistration-main\\aspnetcoremvccustomloginandregistration-main\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|d:\\umair app\\backend\\aspnetcoremvccustomloginandregistration-main\\aspnetcoremvccustomloginandregistration-main\\usersapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:usersapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T09:22:27.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T09:07:58.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T09:22:38.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T09:22:04.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-09T09:25:05.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Account\\Register.cshtml*",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswCQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T09:22:48.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T09:22:29.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_AccountLayout.cshtml",
+              "DocumentMoniker": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AccountLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T09:21:58.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:00:45.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:59:59.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersApp",
+              "DocumentMoniker": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\UsersApp.csproj",
+              "RelativeDocumentMoniker": "UsersApp.csproj",
+              "ToolTip": "D:\\umair app\\backend\\AspNetCoreMvcCustomLoginAndRegistration-main\\AspNetCoreMvcCustomLoginAndRegistration-main\\UsersApp.csproj",
+              "RelativeToolTip": "UsersApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T08:59:45.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
